@@ -1,6 +1,6 @@
 # Desafio-DIO-Create-Repository-
 Criação de repositório para entrega do primeiro projeto do Decola Tech 3° Edição. 
-Este repositório terá uma sequência de videoaulas e textos importantes para a evolucão de um iniciante dentro da plataforma, desde tutoriais da instalação do Git à criação de projetos. 
+Este repositório terá uma sequência de videoaulas importantes para a evolucão de um iniciante dentro da plataforma Git/Github.
 
 ## Guia de Estudos Git/GitHub
 [Instalação do Git](https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/014fe14a-dc5a-41ec-9965-755a79694f27?back=/track/decola-tech-3a-edicao&tab=undefined&moduleId=undefined)
